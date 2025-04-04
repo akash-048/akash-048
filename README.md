@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-048
-- 👀 I’m interested in space exploration and programming
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in space exploration
+- 🌱 I’m currently learning Blockchain technology
 - 📫 How to reach me - [akash433976@gmail.com]
 - 😄 Pronouns: he/him
 - 💥 Quick learner
